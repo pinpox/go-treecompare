@@ -1,0 +1,18 @@
+software development
+	programming languages
+		interpreted languages
+			ruby
+			python
+			javascript
+		compiled languages
+			go
+			c
+			cpp
+			rust
+	frameworks
+		ruby on rails
+		django
+		react
+consulting
+	project management
+	scrum
